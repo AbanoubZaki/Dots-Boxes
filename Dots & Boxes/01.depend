@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1513976653 source:e:\engineering\computer engneering 1st year\1-programming\my growth\01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<ctype.h>
+
+1513978789 source:d:\college\computer scince 1st\1st term project dots & boxes\drafts\project_{1}_v{1}\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<ctype.h>
+
+1513980306 source:c:\users\abanoub ashraf\desktop\project_{1}_v{2}\functions&globals.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<ctype.h>
+
+1513980306 source:c:\users\abanoub ashraf\desktop\project_{1}_v{2}\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<ctype.h>
+	"functions&globals.h"
+
+1513980306 c:\users\abanoub ashraf\desktop\project_{1}_v{2}\functions&globals.h
+
